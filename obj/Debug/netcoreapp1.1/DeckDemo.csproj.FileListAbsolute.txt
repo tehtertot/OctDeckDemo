@@ -1,0 +1,10 @@
+C:\Users\tehte\Desktop\demos\DeckDemo\bin\Debug\netcoreapp1.1\DeckDemo.deps.json
+C:\Users\tehte\Desktop\demos\DeckDemo\bin\Debug\netcoreapp1.1\DeckDemo.runtimeconfig.json
+C:\Users\tehte\Desktop\demos\DeckDemo\bin\Debug\netcoreapp1.1\DeckDemo.runtimeconfig.dev.json
+C:\Users\tehte\Desktop\demos\DeckDemo\bin\Debug\netcoreapp1.1\DeckDemo.dll
+C:\Users\tehte\Desktop\demos\DeckDemo\bin\Debug\netcoreapp1.1\DeckDemo.pdb
+C:\Users\tehte\Desktop\demos\DeckDemo\obj\Debug\netcoreapp1.1\DeckDemo.csproj.CoreCompileInputs.cache
+C:\Users\tehte\Desktop\demos\DeckDemo\obj\Debug\netcoreapp1.1\DeckDemo.AssemblyInfoInputs.cache
+C:\Users\tehte\Desktop\demos\DeckDemo\obj\Debug\netcoreapp1.1\DeckDemo.AssemblyInfo.cs
+C:\Users\tehte\Desktop\demos\DeckDemo\obj\Debug\netcoreapp1.1\DeckDemo.dll
+C:\Users\tehte\Desktop\demos\DeckDemo\obj\Debug\netcoreapp1.1\DeckDemo.pdb
